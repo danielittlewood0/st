@@ -3,6 +3,8 @@
 st is a simple terminal emulator for X which sucks less.
 See [the project page](https://st.suckless.org/) for details.
 
+![st screenshot](/scrot.png)
+
 st is configured by patching the source code.
 This version of st diverges from upstream by applying the following patches:
 
